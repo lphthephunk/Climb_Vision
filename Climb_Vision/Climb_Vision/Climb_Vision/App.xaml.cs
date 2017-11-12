@@ -13,7 +13,7 @@ namespace Climb_Vision
         {
             InitializeComponent();
 
-            MainPage = new Climb_Vision.MainPage();
+            MainPage = new LoginPage();
         }
 
         protected override void OnStart()

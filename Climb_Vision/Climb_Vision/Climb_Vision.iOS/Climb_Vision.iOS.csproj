@@ -116,6 +116,12 @@
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="Pikkart.ArSdk.Geo, Version=1.0.6522.29702, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Pikkart.ArSdk.3.1.0\lib\Xamarin.iOS10\Pikkart.ArSdk.Geo.dll</HintPath>
+    </Reference>
+    <Reference Include="Pikkart.ArSdk.Recognition, Version=1.0.6522.29606, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Pikkart.ArSdk.3.1.0\lib\Xamarin.iOS10\Pikkart.ArSdk.Recognition.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
